@@ -1,0 +1,17 @@
+# API Clients
+openai>=1.0.0
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Type Hints
+typing-extensions>=4.7.0
+
+# Optional - Development Tools
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Code linting
+pytest>=7.0.0  # Testing 
