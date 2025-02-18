@@ -4,7 +4,6 @@ This repository contains practice Python functions and pipelines for testing Ope
 
 - OpenAI Chat Integration
 - Midjourney Image Generation (via GoAPI)
-- Wikipedia Pipeline
 
 ## Purpose
 
