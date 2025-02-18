@@ -20,7 +20,6 @@ These are practice implementations and should not be used in production without 
 
 - `owui_openai_chat.py` - OpenAI Chat integration template
 - `goapi_midjourney_pipeline_03.py` - Midjourney image generation pipeline
-- `wikipedia_pipeline.py` - Wikipedia data fetching pipeline
 
 ## Setup
 
